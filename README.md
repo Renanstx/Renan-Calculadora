@@ -20,7 +20,7 @@ Uma calculadora simples desenvolvida com HTML, CSS e JavaScript.
 
 
 ## 🔗 Acesse o projeto
-(Depois a gente pode publicar online e colocar o link aqui)
+[(Depois a gente pode publicar online e colocar o link aqui)](https://renan-calculadore.netlify.app/)
 
 ## 📚 Aprendizados
 Esse projeto foi importante para praticar:
