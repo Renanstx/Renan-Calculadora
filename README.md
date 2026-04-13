@@ -15,7 +15,6 @@ Uma calculadora simples desenvolvida com HTML, CSS e JavaScript.
 - JavaScript
 
 ## 📸 Preview
-(Coloque aqui um print da sua calculadora depois)
 
 <img width="423" height="605" alt="image" src="https://github.com/user-attachments/assets/9f75571a-273d-4bdf-8d7b-b1d66a006074" />
 
